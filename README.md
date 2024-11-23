@@ -11,6 +11,8 @@ In addition to discussion and analysis, this GPT serves as a tool for personaliz
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Philosophy]([ChatGPT](https://github.com/sourceduty/Philosophy)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.

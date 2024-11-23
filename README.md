@@ -1,6 +1,6 @@
 ![Philosophy](https://github.com/user-attachments/assets/4db3d08b-ec5d-440d-8a3e-069f1eeddaa8)
 
-> Study, modify and simulate different types of philosophy
+> Study, modify and simulate different types of philosophy.
 #
 
 [Philosophy Simulator](https://chatgpt.com/g/g-DgaNOkP7Y-philosophy-simulator) is designed to explore and simulate the vast and intricate world of philosophy. Its primary role is to engage users in thoughtful discussions about philosophical concepts, theories, and traditions, drawing from both historical and contemporary sources. It provides in-depth explanations, contextualizes ideas within their historical and cultural settings, and compares different schools of thought. The Philosophy Simulator can simulate debates between various philosophical perspectives, analyze texts for their philosophical significance, and guide users through complex ideas with clarity and precision. Its goal is to make philosophy accessible and engaging, empowering users to explore profound questions about existence, morality, knowledge, and more.
